@@ -24,6 +24,7 @@ It showcases my projects, skills, and experience as a Computer Science student a
 - GitHub Pages: Deployment
 
 ### Installation & Setup
+(Run these commands in your terminal)
 
 Clone the repo:
 
@@ -31,8 +32,7 @@ Clone the repo:
 
 Enter the directory of the repository:
 
-`bash
-cd <your-repo>`
+`cd <your-repo>`
 
 Install dependencies:
 
