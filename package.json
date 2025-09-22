@@ -2,7 +2,7 @@
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://tadieakabs.github.io/portfolio",
+  "homepage": "https://tadiwakabs.github.io/portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
